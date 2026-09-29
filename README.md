@@ -393,9 +393,10 @@ Any deviation from biological mechanisms should be:
 
 ## Project Documents
 
-- [`Master Architecture`](docs/master-architecture.md)
-- [`Master Specification`](docs/master-specification.md)
+- [`ARCHITETTURA 2.0`](docs/ARCHITETTURA_2.0.md)
+- [`MASTER ARCHITETTURA`](docs/MASTER_ARCHITETTURA.md)
 - [`Maturation Matrix`](docs/maturation-matrix.md)
+- [`MASTER SPECIFICA`](docs/MASTER_SPECIFICA.md)
 
 
 ---
